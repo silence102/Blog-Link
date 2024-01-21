@@ -1,4 +1,3 @@
-# Python
+## Blog Link 
 
-코넬파이 Okt 형태소 분석기 학습
-
+###### [< Min / Log >](https://mstory0503.tistory.com/) - Tistory Link 바로가기 
