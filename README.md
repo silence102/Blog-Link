@@ -1,3 +1,3 @@
 ## Blog Link 
 
-###### [< Min / Log >](https://mstory0503.tistory.com/) - Tistory Link 바로가기 
+###### < Min / Log > - [Tistory Link 바로가기](https://mstory0503.tistory.com/)
